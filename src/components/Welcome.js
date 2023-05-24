@@ -4,10 +4,10 @@ import React, {Component} from 'react'
         return (
             <>
 
-        <h1>Welcome {this.props.name} a.k.a {this.props.heroName}
+        <h4>Welcome {this.props.name} a.k.a {this.props.heroName}
           
         
-        </h1>
+        </h4>
 
         </>
 
